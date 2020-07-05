@@ -1,2 +1,2 @@
-# KINGSLY2001.github.io
+# kingsly2001.github.io
 my first website
